@@ -1,4 +1,4 @@
-In 1st Assignment
+1st Assignment\n
 #Task 1: Basic Mathematical Operations
 - The program asks the user to input two numbers.
 - It performs and displays the results of:
@@ -6,7 +6,6 @@ In 1st Assignment
   - Subtraction
   - Multiplication
   - Division
-
 #Task 2: Personalized Greeting
 - The program asks for the user's first and last name.
 - It then prints a personalized greeting message.
