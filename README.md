@@ -1,4 +1,4 @@
-1st Assignment
+In 1st Assignment
 #Task 1: Basic Mathematical Operations
 - The program asks the user to input two numbers.
 - It performs and displays the results of:
