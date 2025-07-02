@@ -1,7 +1,6 @@
 .py file titled: 1st Assignment
 
-Task 1: Basic Mathematical Operations
-The Code asks the user to input two numbers.
+Task 1: Perform Basic Mathematical Operations. The code asks the user to input two numbers.
 It performs and displays the results of:
  - Addition
  - Subtraction
