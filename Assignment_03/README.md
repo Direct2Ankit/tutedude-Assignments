@@ -9,4 +9,4 @@
 - Square Root: Calculates the square root using 'math.sqrt()'
 - Natural Logarithm: Computes natural log (base e) using 'math.log()'
 - Sine Function: Computes sine in radians using 'math.sin()'
-#### It ensures the input is positive log and square root, while sin is calculated for all values.
+- It ensures the input is positive log and square root, while sin is calculated for all values.
