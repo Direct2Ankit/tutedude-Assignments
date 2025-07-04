@@ -1,2 +1,2 @@
 This is a sample text file.
-it contains multiple lines.
+It contains multiple lines.
