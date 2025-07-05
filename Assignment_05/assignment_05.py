@@ -12,7 +12,6 @@ if user in student:
 else:
     print("Student not found")
 
-
 # Task 2: Demonstrate List Slicing
 my_list  = list(range(1, 11))
 first_five = my_list[:5]
